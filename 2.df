@@ -1,0 +1,47 @@
+.git
+├── branches
+├── COMMIT_EDITMSG
+├── config
+├── description
+├── HEAD
+├── hooks
+│   ├── applypatch-msg.sample
+│   ├── commit-msg.sample
+│   ├── post-update.sample
+│   ├── pre-applypatch.sample
+│   ├── pre-commit.sample
+│   ├── prepare-commit-msg.sample
+│   ├── pre-push.sample
+│   ├── pre-rebase.sample
+│   └── update.sample
+├── index
+├── info
+│   └── exclude
+├── logs
+│   ├── HEAD
+│   └── refs
+│       └── heads
+│           └── master
+├── objects
+│   ├── 0b
+│   │   └── 3e5c1b78613e75444d01b0e1bc2fdb4209822e
+│   ├── 4c
+│   │   └── b3376710c0652465bc8190cd3c2994a86c7e4e
+│   ├── 64
+│   │   └── 18081193534d4b1f91a15f25ebce65e0f4a519
+│   ├── 6d
+│   │   └── 62648e402460d2573cf40d6f7db3def1cbb385
+│   ├── a3
+│   │   └── d9bcc0c12de6bf2d5fd5628cadb13307437e42
+│   ├── e6
+│   │   └── 9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+│   ├── fa
+│   │   └── 49b077972391ad58037050f2a75f74e3671e92
+│   ├── info
+│   └── pack
+└── refs
+    ├── heads
+    │   └── master
+    └── tags
+
+19 directories, 25 files
